@@ -2,3 +2,6 @@ config:
   version: 1
   source: remote
   profile: dev
+
+# '{cipher}加密所得字符串'
+password: '{cipher}2a87434c18e73741bec04fc255b40482ee2717d0c4e39df140f87a5d5d4ca5b8cced0ea5ecf96138e563208d48c22d88'
