@@ -1,5 +1,5 @@
 config:
-  version: 1
+  version: 2
   source: remote
   profile: dev
 
